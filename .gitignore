@@ -1,0 +1,22 @@
+# Python
+    __pycache__/
+    *.py[cod]
+    *.pyo
+    .env
+    venv/
+    .venv/
+ 
+    # Jupyter checkpoints
+    .ipynb_checkpoints/
+ 
+    # Large model/data files (optional — add if files > 100MB)
+    # *.pkl
+    # data/*.csv
+ 
+    # OS
+    .DS_Store
+    Thumbs.db
+ 
+    # Secrets
+    *.env
+    secrets.py
